@@ -1,0 +1,46 @@
+  /**
+     * 是否开启数据限制
+     * 支持auth/personal
+     * 表示按权限判断/仅限个人
+     * 默认为禁用,若启用请务必保证表中存在admin_id字段
+     */
+    protected $dataLimit = true;
+
+    /**
+     * 数据限制字段
+     */
+    protected $dataLimitField = 'admin_id';
+
+回收站路径
+application\admin\view\test\user\recyclebin.html
+
+
+users/user/usersid    select id和nickname
+app\admin\model\users\User  用户表模型
+
+
+
+crontab.sh 里面每10秒中调用一次链接
+
+    #!/bin/bash
+    step=10 #间隔的秒数，不能大于60
+    while [ $code -ne 200 ]
+    do
+        curl http://www.abc.com/index.php?a=1\&b=2&\c=3 #访问链接
+        $i++
+        sleep $step
+    done;
+    exit 0
+
+
+    VAL1=10
+
+
+    #!/bin/bash
+    i=1
+    while (( i<60 ))
+    do
+    curl http://www.abc.com/zxftNsHkXg.php/caiji
+    (( i++ ))
+    sleep 5s;
+    done

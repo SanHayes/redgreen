@@ -1,0 +1,7 @@
+PHP7.2
+MYSQL5.7
+NGINX 用TP的规则
+
+UNIAPP可以编译客户端  
+UNIAPP和VUE.JS是一个东西
+nvue有区别
