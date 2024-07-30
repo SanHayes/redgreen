@@ -1,0 +1,1139 @@
+2023-10-30 18:41:54 pid:17989 Workerman[server.php] start in DEBUG mode
+2023-10-30 18:41:54 pid:17991 Worker[17991] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:17994 Worker[17994] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:17993 Worker[17993] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:17992 Worker[17992] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:17994] exit with status 65280
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:17991] exit with status 65280
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:17992] exit with status 65280
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:17993] exit with status 65280
+2023-10-30 18:41:54 pid:18024 Worker[18024] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:18026 Worker[18026] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:18023 Worker[18023] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:18025 Worker[18025] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18024] exit with status 65280
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18026] exit with status 65280
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18025] exit with status 65280
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18023] exit with status 65280
+2023-10-30 18:41:54 pid:18051 Worker[18051] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:18053 Worker[18053] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:18054 Worker[18054] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:18052 Worker[18052] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18051] exit with status 65280
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18052] exit with status 65280
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18053] exit with status 65280
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18054] exit with status 65280
+2023-10-30 18:41:54 pid:18079 Worker[18079] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:18081 Worker[18081] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:18080 Worker[18080] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:18082 Worker[18082] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18079] exit with status 65280
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18081] exit with status 65280
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18080] exit with status 65280
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18082] exit with status 65280
+2023-10-30 18:41:54 pid:18107 Worker[18107] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:18108 Worker[18108] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:18110 Worker[18110] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:18109 Worker[18109] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18107] exit with status 65280
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18108] exit with status 65280
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18110] exit with status 65280
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18109] exit with status 65280
+2023-10-30 18:41:54 pid:18135 Worker[18135] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:18136 Worker[18136] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18135] exit with status 65280
+2023-10-30 18:41:54 pid:18137 Worker[18137] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18136] exit with status 65280
+2023-10-30 18:41:54 pid:18138 Worker[18138] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18137] exit with status 65280
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18138] exit with status 65280
+2023-10-30 18:41:54 pid:18161 Worker[18161] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:18164 Worker[18164] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18161] exit with status 65280
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18164] exit with status 65280
+2023-10-30 18:41:54 pid:18167 Worker[18167] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:18165 Worker[18165] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18165] exit with status 65280
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18167] exit with status 65280
+2023-10-30 18:41:54 pid:18187 Worker[18187] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:18192 Worker[18192] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18187] exit with status 65280
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18192] exit with status 65280
+2023-10-30 18:41:54 pid:18193 Worker[18193] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:18194 Worker[18194] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18193] exit with status 65280
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18194] exit with status 65280
+2023-10-30 18:41:54 pid:18220 Worker[18220] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:18217 Worker[18217] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:18221 Worker[18221] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:18222 Worker[18222] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18220] exit with status 65280
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18217] exit with status 65280
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18221] exit with status 65280
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18222] exit with status 65280
+2023-10-30 18:41:54 pid:18248 Worker[18248] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:18247 Worker[18247] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18248] exit with status 65280
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18247] exit with status 65280
+2023-10-30 18:41:54 pid:18250 Worker[18250] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:18249 Worker[18249] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18249] exit with status 65280
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18250] exit with status 65280
+2023-10-30 18:41:54 pid:18275 Worker[18275] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:18276 Worker[18276] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18275] exit with status 65280
+2023-10-30 18:41:54 pid:18277 Worker[18277] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:54 pid:17989 worker[BusinessWorker:18276] exit with status 65280
+2023-10-30 18:41:54 pid:18278 Worker[18278] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18277] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18278] exit with status 65280
+2023-10-30 18:41:55 pid:18303 Worker[18303] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18304 Worker[18304] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18305 Worker[18305] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18306 Worker[18306] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18303] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18304] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18306] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18305] exit with status 65280
+2023-10-30 18:41:55 pid:18332 Worker[18332] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18333 Worker[18333] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18331 Worker[18331] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18334 Worker[18334] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18332] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18333] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18331] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18334] exit with status 65280
+2023-10-30 18:41:55 pid:18359 Worker[18359] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18360 Worker[18360] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18361 Worker[18361] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18362 Worker[18362] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18360] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18359] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18361] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18362] exit with status 65280
+2023-10-30 18:41:55 pid:18387 Worker[18387] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18388 Worker[18388] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18387] exit with status 65280
+2023-10-30 18:41:55 pid:18389 Worker[18389] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18388] exit with status 65280
+2023-10-30 18:41:55 pid:18390 Worker[18390] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18389] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18390] exit with status 65280
+2023-10-30 18:41:55 pid:18413 Worker[18413] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18416 Worker[18416] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18413] exit with status 65280
+2023-10-30 18:41:55 pid:18417 Worker[18417] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18419 Worker[18419] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18416] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18417] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18419] exit with status 65280
+2023-10-30 18:41:55 pid:18441 Worker[18441] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18444 Worker[18444] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18445 Worker[18445] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18441] exit with status 65280
+2023-10-30 18:41:55 pid:18446 Worker[18446] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18444] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18445] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18446] exit with status 65280
+2023-10-30 18:41:55 pid:18472 Worker[18472] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18471 Worker[18471] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18474 Worker[18474] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18473 Worker[18473] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18471] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18472] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18474] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18473] exit with status 65280
+2023-10-30 18:41:55 pid:18499 Worker[18499] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18501 Worker[18501] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18500 Worker[18500] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18501] exit with status 65280
+2023-10-30 18:41:55 pid:18502 Worker[18502] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18499] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18500] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18502] exit with status 65280
+2023-10-30 18:41:55 pid:18528 Worker[18528] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18527 Worker[18527] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18530 Worker[18530] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18529 Worker[18529] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18527] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18528] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18529] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18530] exit with status 65280
+2023-10-30 18:41:55 pid:18555 Worker[18555] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18556 Worker[18556] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18555] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18556] exit with status 65280
+2023-10-30 18:41:55 pid:18558 Worker[18558] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18557 Worker[18557] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18558] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18557] exit with status 65280
+2023-10-30 18:41:55 pid:18580 Worker[18580] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18579 Worker[18579] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18579] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18580] exit with status 65280
+2023-10-30 18:41:55 pid:18590 Worker[18590] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18587 Worker[18587] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18590] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18587] exit with status 65280
+2023-10-30 18:41:55 pid:18599 Worker[18599] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18600 Worker[18600] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18600] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18599] exit with status 65280
+2023-10-30 18:41:55 pid:18623 Worker[18623] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18625 Worker[18625] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18623] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18625] exit with status 65280
+2023-10-30 18:41:55 pid:18630 Worker[18630] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18628 Worker[18628] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18630] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18628] exit with status 65280
+2023-10-30 18:41:55 pid:18650 Worker[18650] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18651 Worker[18651] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18650] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18651] exit with status 65280
+2023-10-30 18:41:55 pid:18656 Worker[18656] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18659 Worker[18659] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18656] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18659] exit with status 65280
+2023-10-30 18:41:55 pid:18678 Worker[18678] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18679 Worker[18679] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18678] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18679] exit with status 65280
+2023-10-30 18:41:55 pid:18685 Worker[18685] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18687 Worker[18687] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18685] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18687] exit with status 65280
+2023-10-30 18:41:55 pid:18705 Worker[18705] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18708 Worker[18708] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18705] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18708] exit with status 65280
+2023-10-30 18:41:55 pid:18719 Worker[18719] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18713 Worker[18713] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18719] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18713] exit with status 65280
+2023-10-30 18:41:55 pid:18732 Worker[18732] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18730 Worker[18730] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18732] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18730] exit with status 65280
+2023-10-30 18:41:55 pid:18747 Worker[18747] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18742 Worker[18742] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18742] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18747] exit with status 65280
+2023-10-30 18:41:55 pid:18761 Worker[18761] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18760 Worker[18760] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18761] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18760] exit with status 65280
+2023-10-30 18:41:55 pid:18775 Worker[18775] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18774 Worker[18774] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18775] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18774] exit with status 65280
+2023-10-30 18:41:55 pid:18786 Worker[18786] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18787 Worker[18787] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18786] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18787] exit with status 65280
+2023-10-30 18:41:55 pid:18800 Worker[18800] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18797 Worker[18797] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18800] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18797] exit with status 65280
+2023-10-30 18:41:55 pid:18818 Worker[18818] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18820 Worker[18820] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18818] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18820] exit with status 65280
+2023-10-30 18:41:55 pid:18827 Worker[18827] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18826 Worker[18826] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18827] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18826] exit with status 65280
+2023-10-30 18:41:55 pid:18841 Worker[18841] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18846 Worker[18846] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18841] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18846] exit with status 65280
+2023-10-30 18:41:55 pid:18857 Worker[18857] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18864 Worker[18864] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18857] exit with status 65280
+2023-10-30 18:41:55 pid:18867 Worker[18867] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18864] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18867] exit with status 65280
+2023-10-30 18:41:55 pid:18869 Worker[18869] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18869] exit with status 65280
+2023-10-30 18:41:55 pid:18889 Worker[18889] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18892 Worker[18892] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18895 Worker[18895] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18889] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18892] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18895] exit with status 65280
+2023-10-30 18:41:55 pid:18900 Worker[18900] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18900] exit with status 65280
+2023-10-30 18:41:55 pid:18918 Worker[18918] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18920 Worker[18920] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18923 Worker[18923] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18918] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18920] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18923] exit with status 65280
+2023-10-30 18:41:55 pid:18926 Worker[18926] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18926] exit with status 65280
+2023-10-30 18:41:55 pid:18948 Worker[18948] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18946 Worker[18946] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18951 Worker[18951] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18948] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18946] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18951] exit with status 65280
+2023-10-30 18:41:55 pid:18956 Worker[18956] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18956] exit with status 65280
+2023-10-30 18:41:55 pid:18973 Worker[18973] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18972 Worker[18972] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:18979 Worker[18979] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18973] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18979] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18972] exit with status 65280
+2023-10-30 18:41:55 pid:18982 Worker[18982] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:18982] exit with status 65280
+2023-10-30 18:41:55 pid:19004 Worker[19004] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19003 Worker[19003] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19007 Worker[19007] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19003] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19004] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19007] exit with status 65280
+2023-10-30 18:41:55 pid:19010 Worker[19010] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19010] exit with status 65280
+2023-10-30 18:41:55 pid:19028 Worker[19028] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19031 Worker[19031] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19031] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19028] exit with status 65280
+2023-10-30 18:41:55 pid:19033 Worker[19033] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19033] exit with status 65280
+2023-10-30 18:41:55 pid:19043 Worker[19043] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19043] exit with status 65280
+2023-10-30 18:41:55 pid:19055 Worker[19055] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19057 Worker[19057] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19057] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19055] exit with status 65280
+2023-10-30 18:41:55 pid:19063 Worker[19063] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19063] exit with status 65280
+2023-10-30 18:41:55 pid:19074 Worker[19074] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19074] exit with status 65280
+2023-10-30 18:41:55 pid:19081 Worker[19081] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19082 Worker[19082] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19081] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19082] exit with status 65280
+2023-10-30 18:41:55 pid:19092 Worker[19092] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19092] exit with status 65280
+2023-10-30 18:41:55 pid:19104 Worker[19104] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19108 Worker[19108] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19109 Worker[19109] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19104] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19109] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19108] exit with status 65280
+2023-10-30 18:41:55 pid:19121 Worker[19121] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19121] exit with status 65280
+2023-10-30 18:41:55 pid:19132 Worker[19132] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19136 Worker[19136] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19132] exit with status 65280
+2023-10-30 18:41:55 pid:19138 Worker[19138] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19136] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19138] exit with status 65280
+2023-10-30 18:41:55 pid:19152 Worker[19152] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19160 Worker[19160] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19152] exit with status 65280
+2023-10-30 18:41:55 pid:19161 Worker[19161] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19160] exit with status 65280
+2023-10-30 18:41:55 pid:19165 Worker[19165] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19161] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19165] exit with status 65280
+2023-10-30 18:41:55 pid:19184 Worker[19184] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19188 Worker[19188] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19184] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19188] exit with status 65280
+2023-10-30 18:41:55 pid:19189 Worker[19189] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19192 Worker[19192] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19189] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19192] exit with status 65280
+2023-10-30 18:41:55 pid:19213 Worker[19213] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19212 Worker[19212] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19217 Worker[19217] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19213] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19212] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19217] exit with status 65280
+2023-10-30 18:41:55 pid:19218 Worker[19218] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19218] exit with status 65280
+2023-10-30 18:41:55 pid:19245 Worker[19245] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19241 Worker[19241] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19242 Worker[19242] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19245] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19241] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19242] exit with status 65280
+2023-10-30 18:41:55 pid:19246 Worker[19246] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19246] exit with status 65280
+2023-10-30 18:41:55 pid:19272 Worker[19272] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19273 Worker[19273] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19269 Worker[19269] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19269] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19272] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19273] exit with status 65280
+2023-10-30 18:41:55 pid:19275 Worker[19275] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19275] exit with status 65280
+2023-10-30 18:41:55 pid:19301 Worker[19301] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19298 Worker[19298] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19300 Worker[19300] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19301] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19300] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19298] exit with status 65280
+2023-10-30 18:41:55 pid:19302 Worker[19302] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19302] exit with status 65280
+2023-10-30 18:41:55 pid:19325 Worker[19325] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19324 Worker[19324] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19327 Worker[19327] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19325] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19324] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19327] exit with status 65280
+2023-10-30 18:41:55 pid:19337 Worker[19337] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19337] exit with status 65280
+2023-10-30 18:41:55 pid:19353 Worker[19353] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19351 Worker[19351] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19350 Worker[19350] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19351] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19350] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19353] exit with status 65280
+2023-10-30 18:41:55 pid:19361 Worker[19361] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19361] exit with status 65280
+2023-10-30 18:41:55 pid:19381 Worker[19381] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19380 Worker[19380] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19382 Worker[19382] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19381] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19380] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19382] exit with status 65280
+2023-10-30 18:41:55 pid:19387 Worker[19387] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19387] exit with status 65280
+2023-10-30 18:41:55 pid:19409 Worker[19409] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19411 Worker[19411] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19408 Worker[19408] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19409] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19408] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19411] exit with status 65280
+2023-10-30 18:41:55 pid:19417 Worker[19417] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19417] exit with status 65280
+2023-10-30 18:41:55 pid:19438 Worker[19438] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19437 Worker[19437] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19436 Worker[19436] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19438] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19436] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19437] exit with status 65280
+2023-10-30 18:41:55 pid:19447 Worker[19447] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19447] exit with status 65280
+2023-10-30 18:41:55 pid:19465 Worker[19465] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19462 Worker[19462] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19467 Worker[19467] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19465] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19462] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19467] exit with status 65280
+2023-10-30 18:41:55 pid:19472 Worker[19472] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19472] exit with status 65280
+2023-10-30 18:41:55 pid:19492 Worker[19492] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19495 Worker[19495] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19493 Worker[19493] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19492] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19495] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19493] exit with status 65280
+2023-10-30 18:41:55 pid:19501 Worker[19501] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19501] exit with status 65280
+2023-10-30 18:41:55 pid:19523 Worker[19523] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19520 Worker[19520] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19521 Worker[19521] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19523] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19521] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19520] exit with status 65280
+2023-10-30 18:41:55 pid:19526 Worker[19526] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19526] exit with status 65280
+2023-10-30 18:41:55 pid:19552 Worker[19552] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19549 Worker[19549] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19553 Worker[19553] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19552] exit with status 65280
+2023-10-30 18:41:55 pid:19554 Worker[19554] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19549] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19553] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19554] exit with status 65280
+2023-10-30 18:41:55 pid:19580 Worker[19580] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19579 Worker[19579] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19581 Worker[19581] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19580] exit with status 65280
+2023-10-30 18:41:55 pid:19582 Worker[19582] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19581] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19579] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19582] exit with status 65280
+2023-10-30 18:41:55 pid:19607 Worker[19607] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19608 Worker[19608] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19610 Worker[19610] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19609 Worker[19609] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19607] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19608] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19610] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19609] exit with status 65280
+2023-10-30 18:41:55 pid:19635 Worker[19635] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19637 Worker[19637] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19638 Worker[19638] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19636 Worker[19636] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19635] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19636] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19637] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19638] exit with status 65280
+2023-10-30 18:41:55 pid:19663 Worker[19663] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19664 Worker[19664] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19665 Worker[19665] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19666 Worker[19666] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19664] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19663] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19665] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19666] exit with status 65280
+2023-10-30 18:41:55 pid:19691 Worker[19691] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19692 Worker[19692] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19691] exit with status 65280
+2023-10-30 18:41:55 pid:19693 Worker[19693] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19694 Worker[19694] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19692] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19693] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19694] exit with status 65280
+2023-10-30 18:41:55 pid:19720 Worker[19720] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19721 Worker[19721] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19723 Worker[19723] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19722 Worker[19722] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19720] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19721] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19722] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19723] exit with status 65280
+2023-10-30 18:41:55 pid:19750 Worker[19750] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19748 Worker[19748] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19749 Worker[19749] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:19751 Worker[19751] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19750] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19748] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19749] exit with status 65280
+2023-10-30 18:41:55 pid:17989 worker[BusinessWorker:19751] exit with status 65280
+2023-10-30 18:41:56 pid:19778 Worker[19778] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:19777 Worker[19777] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:19776 Worker[19776] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:19779 Worker[19779] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:19778] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:19777] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:19776] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:19779] exit with status 65280
+2023-10-30 18:41:56 pid:19804 Worker[19804] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:19805 Worker[19805] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:19807 Worker[19807] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:19806 Worker[19806] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:19805] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:19807] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:19804] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:19806] exit with status 65280
+2023-10-30 18:41:56 pid:19834 Worker[19834] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:19835 Worker[19835] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:19832 Worker[19832] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:19833 Worker[19833] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:19834] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:19835] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:19832] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:19833] exit with status 65280
+2023-10-30 18:41:56 pid:19862 Worker[19862] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:19861 Worker[19861] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:19860 Worker[19860] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:19863 Worker[19863] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:19860] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:19861] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:19862] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:19863] exit with status 65280
+2023-10-30 18:41:56 pid:19890 Worker[19890] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:19888 Worker[19888] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:19889 Worker[19889] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:19891 Worker[19891] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:19888] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:19890] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:19889] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:19891] exit with status 65280
+2023-10-30 18:41:56 pid:19916 Worker[19916] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:19917 Worker[19917] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:19918 Worker[19918] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:19919 Worker[19919] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:19916] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:19917] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:19918] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:19919] exit with status 65280
+2023-10-30 18:41:56 pid:19944 Worker[19944] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:19945 Worker[19945] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:19946 Worker[19946] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:19944] exit with status 65280
+2023-10-30 18:41:56 pid:19947 Worker[19947] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:19945] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:19946] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:19947] exit with status 65280
+2023-10-30 18:41:56 pid:19972 Worker[19972] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:19974 Worker[19974] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:19973 Worker[19973] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:19972] exit with status 65280
+2023-10-30 18:41:56 pid:19975 Worker[19975] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:19973] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:19974] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:19975] exit with status 65280
+2023-10-30 18:41:56 pid:20000 Worker[20000] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20002 Worker[20002] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20001 Worker[20001] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20001] exit with status 65280
+2023-10-30 18:41:56 pid:20003 Worker[20003] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20002] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20000] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20003] exit with status 65280
+2023-10-30 18:41:56 pid:20029 Worker[20029] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20028 Worker[20028] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20030 Worker[20030] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20029] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20028] exit with status 65280
+2023-10-30 18:41:56 pid:20031 Worker[20031] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20030] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20031] exit with status 65280
+2023-10-30 18:41:56 pid:20056 Worker[20056] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20057 Worker[20057] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20058 Worker[20058] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20059 Worker[20059] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20058] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20056] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20057] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20059] exit with status 65280
+2023-10-30 18:41:56 pid:20084 Worker[20084] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20086 Worker[20086] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20085 Worker[20085] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20087 Worker[20087] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20084] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20086] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20085] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20087] exit with status 65280
+2023-10-30 18:41:56 pid:20112 Worker[20112] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20114 Worker[20114] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20113 Worker[20113] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20112] exit with status 65280
+2023-10-30 18:41:56 pid:20115 Worker[20115] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20114] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20115] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20113] exit with status 65280
+2023-10-30 18:41:56 pid:20140 Worker[20140] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20141 Worker[20141] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20140] exit with status 65280
+2023-10-30 18:41:56 pid:20142 Worker[20142] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20143 Worker[20143] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20141] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20142] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20143] exit with status 65280
+2023-10-30 18:41:56 pid:20168 Worker[20168] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20169 Worker[20169] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20170 Worker[20170] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20168] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20169] exit with status 65280
+2023-10-30 18:41:56 pid:20171 Worker[20171] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20170] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20171] exit with status 65280
+2023-10-30 18:41:56 pid:20194 Worker[20194] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20195 Worker[20195] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20198 Worker[20198] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20194] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20195] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20198] exit with status 65280
+2023-10-30 18:41:56 pid:20200 Worker[20200] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20200] exit with status 65280
+2023-10-30 18:41:56 pid:20221 Worker[20221] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20223 Worker[20223] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20226 Worker[20226] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20221] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20223] exit with status 65280
+2023-10-30 18:41:56 pid:20229 Worker[20229] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20226] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20229] exit with status 65280
+2023-10-30 18:41:56 pid:20250 Worker[20250] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20251 Worker[20251] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20254 Worker[20254] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20250] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20251] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20254] exit with status 65280
+2023-10-30 18:41:56 pid:20256 Worker[20256] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20256] exit with status 65280
+2023-10-30 18:41:56 pid:20277 Worker[20277] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20279 Worker[20279] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20277] exit with status 65280
+2023-10-30 18:41:56 pid:20282 Worker[20282] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20279] exit with status 65280
+2023-10-30 18:41:56 pid:20286 Worker[20286] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20282] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20286] exit with status 65280
+2023-10-30 18:41:56 pid:20305 Worker[20305] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20305] exit with status 65280
+2023-10-30 18:41:56 pid:20310 Worker[20310] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20309 Worker[20309] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20313 Worker[20313] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20310] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20309] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20313] exit with status 65280
+2023-10-30 18:41:56 pid:20334 Worker[20334] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20337 Worker[20337] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20338 Worker[20338] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20339 Worker[20339] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20334] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20337] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20338] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20339] exit with status 65280
+2023-10-30 18:41:56 pid:20365 Worker[20365] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20367 Worker[20367] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20364 Worker[20364] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20366 Worker[20366] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20365] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20367] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20364] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20366] exit with status 65280
+2023-10-30 18:41:56 pid:20394 Worker[20394] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20393 Worker[20393] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20392 Worker[20392] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20395 Worker[20395] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20393] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20392] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20394] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20395] exit with status 65280
+2023-10-30 18:41:56 pid:20420 Worker[20420] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20422 Worker[20422] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20423 Worker[20423] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20421 Worker[20421] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20422] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20420] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20423] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20421] exit with status 65280
+2023-10-30 18:41:56 pid:20451 Worker[20451] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20452 Worker[20452] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20448 Worker[20448] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20449 Worker[20449] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20448] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20449] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20451] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20452] exit with status 65280
+2023-10-30 18:41:56 pid:20479 Worker[20479] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20478 Worker[20478] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20477 Worker[20477] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20480 Worker[20480] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20478] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20479] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20477] exit with status 65280
+2023-10-30 18:41:56 pid:17989 Workerman[server.php] stopping ...
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20480] exit with status 65280
+2023-10-30 18:41:56 pid:20506 Worker[20506] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20505 Worker[20505] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:20507 Worker[20507] process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Events, because the name is already in use in /www/wwwroot/fastadmin/application/socket/controller/Events.php on line 28"
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20506] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20505] exit with status 65280
+2023-10-30 18:41:56 pid:17989 worker[BusinessWorker:20507] exit with status 65280
+2023-10-30 18:41:56 pid:17989 Workerman[server.php] has been stopped
+2023-10-30 18:43:13 pid:20639 Workerman[server.php] start in DEBUG mode
+2023-10-30 18:48:40 pid:21065 Workerman[server.php] start in DEBUG mode
+2023-10-30 18:55:42 pid:21621 Workerman[server.php] start in DEBUG mode
+2023-10-30 19:25:41 pid:23753 Workerman[server.php] start in DEBUG mode
+2023-10-30 19:44:27 pid:25150 Workerman[server.php] start in DEBUG mode
+2023-10-30 20:05:52 pid:26899 Workerman[server.php] start in DEBUG mode
+2023-10-30 20:07:19 pid:27039 Workerman[server.php] start in DEBUG mode
+2023-10-30 20:11:40 pid:27431 Workerman[server.php] start in DEBUG mode
+2023-10-30 20:14:04 pid:27654 Workerman[server.php] start in DEBUG mode
+2023-10-30 20:17:03 pid:27956 Workerman[server.php] start in DEBUG mode
+2023-10-30 20:19:48 pid:28242 Workerman[server.php] start in DEBUG mode
+2023-10-30 20:22:00 pid:28494 Workerman[server.php] start in DEBUG mode
+2023-10-30 20:22:00 pid:28494 Workerman[server.php] already running
+2023-10-30 20:43:49 pid:30329 Workerman[server.php] start in DEBUG mode
+2023-10-30 20:43:49 pid:30329 Workerman[server.php] already running
+2023-10-30 20:44:08 pid:30353 Workerman[server.php] restart 
+2023-10-30 20:44:08 pid:30353 Workerman[server.php] is stopping ...
+2023-10-30 20:44:08 pid:28242 Workerman[server.php] stopping ...
+2023-10-30 20:44:08 pid:28242 Workerman[server.php] has been stopped
+2023-10-30 20:44:08 pid:30353 Workerman[server.php] stop success
+2023-10-30 20:44:08 pid:30357 Error: Using $this when not in object context in /www/wwwroot/fastadmin/application/socket/controller/Events.php:45
+Stack trace:
+#0 [internal function]: app\socket\controller\Events::onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#1 /www/wwwroot/fastadmin/vendor/workerman/gateway-worker/src/BusinessWorker.php(227): call_user_func('\\app\\socket\\con...', Object(GatewayWorker\BusinessWorker))
+#2 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(2395): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#3 /www/wwwroot/fastadmin/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#4 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(1543): GatewayWorker\BusinessWorker->run()
+#5 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(1373): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#6 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(1347): Workerman\Worker::forkWorkersForLinux()
+#7 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(547): Workerman\Worker::forkWorkers()
+#8 /www/wwwroot/fastadmin/application/socket/controller/Start.php(42): Workerman\Worker::runAll()
+#9 [internal function]: app\socket\controller\Start->__construct()
+#10 /www/wwwroot/fastadmin/thinkphp/library/think/App.php(359): ReflectionClass->newInstanceArgs(Array)
+#11 /www/wwwroot/fastadmin/thinkphp/library/think/Loader.php(479): think\App::invokeClass('app\\socket\\cont...')
+#12 /www/wwwroot/fastadmin/thinkphp/library/think/App.php(580): think\Loader::controller('start', 'controller', false, 'Error')
+#13 /www/wwwroot/fastadmin/thinkphp/library/think/App.php(456): think\App::module(Array, Array, true)
+#14 /www/wwwroot/fastadmin/thinkphp/library/think/App.php(139): think\App::exec(Array, Array)
+#15 /www/wwwroot/fastadmin/thinkphp/start.php(19): think\App::run()
+#16 /www/wwwroot/fastadmin/server.php(28): require('/www/wwwroot/fa...')
+#17 {main}
+2023-10-30 20:44:08 pid:30355 Error: Using $this when not in object context in /www/wwwroot/fastadmin/application/socket/controller/Events.php:45
+Stack trace:
+#0 [internal function]: app\socket\controller\Events::onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#1 /www/wwwroot/fastadmin/vendor/workerman/gateway-worker/src/BusinessWorker.php(227): call_user_func('\\app\\socket\\con...', Object(GatewayWorker\BusinessWorker))
+#2 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(2395): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#3 /www/wwwroot/fastadmin/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#4 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(1543): GatewayWorker\BusinessWorker->run()
+#5 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(1373): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#6 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(1347): Workerman\Worker::forkWorkersForLinux()
+#7 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(547): Workerman\Worker::forkWorkers()
+#8 /www/wwwroot/fastadmin/application/socket/controller/Start.php(42): Workerman\Worker::runAll()
+#9 [internal function]: app\socket\controller\Start->__construct()
+#10 /www/wwwroot/fastadmin/thinkphp/library/think/App.php(359): ReflectionClass->newInstanceArgs(Array)
+#11 /www/wwwroot/fastadmin/thinkphp/library/think/Loader.php(479): think\App::invokeClass('app\\socket\\cont...')
+#12 /www/wwwroot/fastadmin/thinkphp/library/think/App.php(580): think\Loader::controller('start', 'controller', false, 'Error')
+#13 /www/wwwroot/fastadmin/thinkphp/library/think/App.php(456): think\App::module(Array, Array, true)
+#14 /www/wwwroot/fastadmin/thinkphp/library/think/App.php(139): think\App::exec(Array, Array)
+#15 /www/wwwroot/fastadmin/thinkphp/start.php(19): think\App::run()
+#16 /www/wwwroot/fastadmin/server.php(28): require('/www/wwwroot/fa...')
+#17 {main}
+2023-10-30 20:44:08 pid:30356 Error: Using $this when not in object context in /www/wwwroot/fastadmin/application/socket/controller/Events.php:45
+Stack trace:
+#0 [internal function]: app\socket\controller\Events::onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#1 /www/wwwroot/fastadmin/vendor/workerman/gateway-worker/src/BusinessWorker.php(227): call_user_func('\\app\\socket\\con...', Object(GatewayWorker\BusinessWorker))
+#2 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(2395): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#3 /www/wwwroot/fastadmin/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#4 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(1543): GatewayWorker\BusinessWorker->run()
+#5 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(1373): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#6 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(1347): Workerman\Worker::forkWorkersForLinux()
+#7 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(547): Workerman\Worker::forkWorkers()
+#8 /www/wwwroot/fastadmin/application/socket/controller/Start.php(42): Workerman\Worker::runAll()
+#9 [internal function]: app\socket\controller\Start->__construct()
+#10 /www/wwwroot/fastadmin/thinkphp/library/think/App.php(359): ReflectionClass->newInstanceArgs(Array)
+#11 /www/wwwroot/fastadmin/thinkphp/library/think/Loader.php(479): think\App::invokeClass('app\\socket\\cont...')
+#12 /www/wwwroot/fastadmin/thinkphp/library/think/App.php(580): think\Loader::controller('start', 'controller', false, 'Error')
+#13 /www/wwwroot/fastadmin/thinkphp/library/think/App.php(456): think\App::module(Array, Array, true)
+#14 /www/wwwroot/fastadmin/thinkphp/library/think/App.php(139): think\App::exec(Array, Array)
+#15 /www/wwwroot/fastadmin/thinkphp/start.php(19): think\App::run()
+#16 /www/wwwroot/fastadmin/server.php(28): require('/www/wwwroot/fa...')
+#17 {main}
+2023-10-30 20:44:08 pid:30358 Error: Using $this when not in object context in /www/wwwroot/fastadmin/application/socket/controller/Events.php:45
+Stack trace:
+#0 [internal function]: app\socket\controller\Events::onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#1 /www/wwwroot/fastadmin/vendor/workerman/gateway-worker/src/BusinessWorker.php(227): call_user_func('\\app\\socket\\con...', Object(GatewayWorker\BusinessWorker))
+#2 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(2395): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#3 /www/wwwroot/fastadmin/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#4 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(1543): GatewayWorker\BusinessWorker->run()
+#5 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(1373): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#6 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(1347): Workerman\Worker::forkWorkersForLinux()
+#7 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(547): Workerman\Worker::forkWorkers()
+#8 /www/wwwroot/fastadmin/application/socket/controller/Start.php(42): Workerman\Worker::runAll()
+#9 [internal function]: app\socket\controller\Start->__construct()
+#10 /www/wwwroot/fastadmin/thinkphp/library/think/App.php(359): ReflectionClass->newInstanceArgs(Array)
+#11 /www/wwwroot/fastadmin/thinkphp/library/think/Loader.php(479): think\App::invokeClass('app\\socket\\cont...')
+#12 /www/wwwroot/fastadmin/thinkphp/library/think/App.php(580): think\Loader::controller('start', 'controller', false, 'Error')
+#13 /www/wwwroot/fastadmin/thinkphp/library/think/App.php(456): think\App::module(Array, Array, true)
+#14 /www/wwwroot/fastadmin/thinkphp/library/think/App.php(139): think\App::exec(Array, Array)
+#15 /www/wwwroot/fastadmin/thinkphp/start.php(19): think\App::run()
+#16 /www/wwwroot/fastadmin/server.php(28): require('/www/wwwroot/fa...')
+#17 {main}
+2023-10-30 20:44:09 pid:30357 Worker[30357] process terminated
+2023-10-30 20:44:09 pid:30353 worker[BusinessWorker:30357] exit with status 64000
+2023-10-30 20:44:09 pid:30355 Worker[30355] process terminated
+2023-10-30 20:44:09 pid:30356 Worker[30356] process terminated
+2023-10-30 20:44:09 pid:30353 worker[BusinessWorker:30355] exit with status 64000
+2023-10-30 20:44:09 pid:30353 worker[BusinessWorker:30356] exit with status 64000
+2023-10-30 20:44:09 pid:30358 Worker[30358] process terminated
+2023-10-30 20:44:09 pid:30353 worker[BusinessWorker:30358] exit with status 64000
+2023-10-30 20:44:10 pid:30364 Error: Using $this when not in object context in /www/wwwroot/fastadmin/application/socket/controller/Events.php:45
+Stack trace:
+#0 [internal function]: app\socket\controller\Events::onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#1 /www/wwwroot/fastadmin/vendor/workerman/gateway-worker/src/BusinessWorker.php(227): call_user_func('\\app\\socket\\con...', Object(GatewayWorker\BusinessWorker))
+#2 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(2395): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#3 /www/wwwroot/fastadmin/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#4 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(1543): GatewayWorker\BusinessWorker->run()
+#5 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(1373): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#6 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(1347): Workerman\Worker::forkWorkersForLinux()
+#7 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(1677): Workerman\Worker::forkWorkers()
+#8 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(1626): Workerman\Worker::monitorWorkersForLinux()
+#9 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(549): Workerman\Worker::monitorWorkers()
+#10 /www/wwwroot/fastadmin/application/socket/controller/Start.php(42): Workerman\Worker::runAll()
+#11 [internal function]: app\socket\controller\Start->__construct()
+#12 /www/wwwroot/fastadmin/thinkphp/library/think/App.php(359): ReflectionClass->newInstanceArgs(Array)
+#13 /www/wwwroot/fastadmin/thinkphp/library/think/Loader.php(479): think\App::invokeClass('app\\socket\\cont...')
+#14 /www/wwwroot/fastadmin/thinkphp/library/think/App.php(580): think\Loader::controller('start', 'controller', false, 'Error')
+#15 /www/wwwroot/fastadmin/thinkphp/library/think/App.php(456): think\App::module(Array, Array, true)
+#16 /www/wwwroot/fastadmin/thinkphp/library/think/App.php(139): think\App::exec(Array, Array)
+#17 /www/wwwroot/fastadmin/thinkphp/start.php(19): think\App::run()
+#18 /www/wwwroot/fastadmin/server.php(28): require('/www/wwwroot/fa...')
+#19 {main}
+2023-10-30 20:44:10 pid:30366 Error: Using $this when not in object context in /www/wwwroot/fastadmin/application/socket/controller/Events.php:45
+Stack trace:
+#0 [internal function]: app\socket\controller\Events::onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#1 /www/wwwroot/fastadmin/vendor/workerman/gateway-worker/src/BusinessWorker.php(227): call_user_func('\\app\\socket\\con...', Object(GatewayWorker\BusinessWorker))
+#2 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(2395): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#3 /www/wwwroot/fastadmin/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#4 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(1543): GatewayWorker\BusinessWorker->run()
+#5 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(1373): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#6 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(1347): Workerman\Worker::forkWorkersForLinux()
+#7 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(1677): Workerman\Worker::forkWorkers()
+#8 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(1626): Workerman\Worker::monitorWorkersForLinux()
+#9 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(549): Workerman\Worker::monitorWorkers()
+#10 /www/wwwroot/fastadmin/application/socket/controller/Start.php(42): Workerman\Worker::runAll()
+#11 [internal function]: app\socket\controller\Start->__construct()
+#12 /www/wwwroot/fastadmin/thinkphp/library/think/App.php(359): ReflectionClass->newInstanceArgs(Array)
+#13 /www/wwwroot/fastadmin/thinkphp/library/think/Loader.php(479): think\App::invokeClass('app\\socket\\cont...')
+#14 /www/wwwroot/fastadmin/thinkphp/library/think/App.php(580): think\Loader::controller('start', 'controller', false, 'Error')
+#15 /www/wwwroot/fastadmin/thinkphp/library/think/App.php(456): think\App::module(Array, Array, true)
+#16 /www/wwwroot/fastadmin/thinkphp/library/think/App.php(139): think\App::exec(Array, Array)
+#17 /www/wwwroot/fastadmin/thinkphp/start.php(19): think\App::run()
+#18 /www/wwwroot/fastadmin/server.php(28): require('/www/wwwroot/fa...')
+#19 {main}
+2023-10-30 20:44:10 pid:30367 Error: Using $this when not in object context in /www/wwwroot/fastadmin/application/socket/controller/Events.php:45
+Stack trace:
+#0 [internal function]: app\socket\controller\Events::onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#1 /www/wwwroot/fastadmin/vendor/workerman/gateway-worker/src/BusinessWorker.php(227): call_user_func('\\app\\socket\\con...', Object(GatewayWorker\BusinessWorker))
+#2 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(2395): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#3 /www/wwwroot/fastadmin/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#4 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(1543): GatewayWorker\BusinessWorker->run()
+#5 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(1373): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#6 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(1347): Workerman\Worker::forkWorkersForLinux()
+#7 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(1677): Workerman\Worker::forkWorkers()
+#8 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(1626): Workerman\Worker::monitorWorkersForLinux()
+#9 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(549): Workerman\Worker::monitorWorkers()
+#10 /www/wwwroot/fastadmin/application/socket/controller/Start.php(42): Workerman\Worker::runAll()
+#11 [internal function]: app\socket\controller\Start->__construct()
+#12 /www/wwwroot/fastadmin/thinkphp/library/think/App.php(359): ReflectionClass->newInstanceArgs(Array)
+#13 /www/wwwroot/fastadmin/thinkphp/library/think/Loader.php(479): think\App::invokeClass('app\\socket\\cont...')
+#14 /www/wwwroot/fastadmin/thinkphp/library/think/App.php(580): think\Loader::controller('start', 'controller', false, 'Error')
+#15 /www/wwwroot/fastadmin/thinkphp/library/think/App.php(456): think\App::module(Array, Array, true)
+#16 /www/wwwroot/fastadmin/thinkphp/library/think/App.php(139): think\App::exec(Array, Array)
+#17 /www/wwwroot/fastadmin/thinkphp/start.php(19): think\App::run()
+#18 /www/wwwroot/fastadmin/server.php(28): require('/www/wwwroot/fa...')
+#19 {main}
+2023-10-30 20:44:10 pid:30365 Error: Using $this when not in object context in /www/wwwroot/fastadmin/application/socket/controller/Events.php:45
+Stack trace:
+#0 [internal function]: app\socket\controller\Events::onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#1 /www/wwwroot/fastadmin/vendor/workerman/gateway-worker/src/BusinessWorker.php(227): call_user_func('\\app\\socket\\con...', Object(GatewayWorker\BusinessWorker))
+#2 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(2395): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#3 /www/wwwroot/fastadmin/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#4 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(1543): GatewayWorker\BusinessWorker->run()
+#5 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(1373): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#6 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(1347): Workerman\Worker::forkWorkersForLinux()
+#7 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(1677): Workerman\Worker::forkWorkers()
+#8 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(1626): Workerman\Worker::monitorWorkersForLinux()
+#9 /www/wwwroot/fastadmin/vendor/workerman/workerman/Worker.php(549): Workerman\Worker::monitorWorkers()
+#10 /www/wwwroot/fastadmin/application/socket/controller/Start.php(42): Workerman\Worker::runAll()
+#11 [internal function]: app\socket\controller\Start->__construct()
+#12 /www/wwwroot/fastadmin/thinkphp/library/think/App.php(359): ReflectionClass->newInstanceArgs(Array)
+#13 /www/wwwroot/fastadmin/thinkphp/library/think/Loader.php(479): think\App::invokeClass('app\\socket\\cont...')
+#14 /www/wwwroot/fastadmin/thinkphp/library/think/App.php(580): think\Loader::controller('start', 'controller', false, 'Error')
+#15 /www/wwwroot/fastadmin/thinkphp/library/think/App.php(456): think\App::module(Array, Array, true)
+#16 /www/wwwroot/fastadmin/thinkphp/library/think/App.php(139): think\App::exec(Array, Array)
+#17 /www/wwwroot/fastadmin/thinkphp/start.php(19): think\App::run()
+#18 /www/wwwroot/fastadmin/server.php(28): require('/www/wwwroot/fa...')
+#19 {main}
+2023-10-30 20:44:11 pid:30367 Worker[30367] process terminated
+2023-10-30 20:44:11 pid:30364 Worker[30364] process terminated
+2023-10-30 20:44:11 pid:30365 Worker[30365] process terminated
+2023-10-30 20:44:11 pid:30353 Workerman[server.php] stopping ...
+2023-10-30 20:44:11 pid:30366 Worker[30366] process terminated
+2023-10-30 20:44:11 pid:30353 worker[BusinessWorker:30364] exit with status 64000
+2023-10-30 20:44:11 pid:30353 worker[BusinessWorker:30365] exit with status 64000
+2023-10-30 20:44:11 pid:30353 worker[BusinessWorker:30367] exit with status 64000
+2023-10-30 20:44:11 pid:30353 worker[BusinessWorker:30366] exit with status 64000
+2023-10-30 20:44:11 pid:30353 Workerman[server.php] has been stopped
+2023-10-30 20:44:59 pid:30454 Workerman[server.php] restart 
+2023-10-30 20:44:59 pid:30454 Workerman[server.php] is stopping ...
+2023-10-30 20:44:59 pid:30454 Workerman[server.php] stop success
+2023-10-30 20:45:04 pid:30459 Worker[30459] process terminated
+2023-10-30 20:45:04 pid:30457 Worker[30457] process terminated
+2023-10-30 20:45:04 pid:30458 Worker[30458] process terminated
+2023-10-30 20:45:04 pid:30456 Worker[30456] process terminated
+2023-10-30 20:45:07 pid:30454 Workerman[server.php] stopping ...
+2023-10-30 20:45:07 pid:30454 Workerman[server.php] has been stopped
+2023-10-30 20:49:49 pid:30921 Workerman[server.php] restart 
+2023-10-30 20:49:49 pid:30921 Workerman[server.php] is stopping ...
+2023-10-30 20:49:49 pid:30921 Workerman[server.php] stop success
+2023-10-30 20:49:50 pid:30925 Worker[30925] process terminated
+2023-10-30 20:49:50 pid:30924 Worker[30924] process terminated
+2023-10-30 20:49:50 pid:30926 Worker[30926] process terminated
+2023-10-30 20:49:50 pid:30923 Worker[30923] process terminated
+2023-10-30 20:49:51 pid:30958 Worker[30958] process terminated
+2023-10-30 20:49:51 pid:30959 Worker[30959] process terminated
+2023-10-30 20:49:51 pid:30957 Worker[30957] process terminated
+2023-10-30 20:49:51 pid:30956 Worker[30956] process terminated
+2023-10-30 20:49:51 pid:30921 Workerman[server.php] stopping ...
+2023-10-30 20:49:51 pid:30921 Workerman[server.php] has been stopped
+2023-10-30 20:51:14 pid:31154 Workerman[server.php] restart 
+2023-10-30 20:51:14 pid:31154 Workerman[server.php] is stopping ...
+2023-10-30 20:51:14 pid:31154 Workerman[server.php] stop success
+2023-10-30 20:51:15 pid:31159 Worker[31159] process terminated
+2023-10-30 20:51:15 pid:31157 Worker[31157] process terminated
+2023-10-30 20:51:15 pid:31158 Worker[31158] process terminated
+2023-10-30 20:51:15 pid:31156 Worker[31156] process terminated
+2023-10-30 20:51:16 pid:31154 Workerman[server.php] stopping ...
+2023-10-30 20:51:16 pid:31154 Workerman[server.php] has been stopped
+2023-10-30 20:52:28 pid:31319 Workerman[server.php] restart 
+2023-10-30 20:52:28 pid:31319 Workerman[server.php] is stopping ...
+2023-10-30 20:52:28 pid:31319 Workerman[server.php] stop success
+2023-10-30 20:56:08 pid:31669 Workerman[server.php] restart 
+2023-10-30 20:56:08 pid:31669 Workerman[server.php] is stopping ...
+2023-10-30 20:56:08 pid:31669 Workerman[server.php] stop success
+2023-10-30 20:59:02 pid:31911 Workerman[server.php] restart 
+2023-10-30 20:59:02 pid:31911 Workerman[server.php] is stopping ...
+2023-10-30 20:59:02 pid:31911 Workerman[server.php] stop success
+2023-10-30 21:09:58 pid:334 Workerman[server.php] restart 
+2023-10-30 21:09:58 pid:334 Workerman[server.php] is stopping ...
+2023-10-30 21:09:58 pid:334 Workerman[server.php] stop success
+2023-10-30 21:11:16 pid:506 Workerman[server.php] restart 
+2023-10-30 21:11:16 pid:506 Workerman[server.php] is stopping ...
+2023-10-30 21:11:16 pid:506 Workerman[server.php] stop success
+2023-10-30 21:13:21 pid:693 Workerman[server.php] restart 
+2023-10-30 21:13:21 pid:693 Workerman[server.php] is stopping ...
+2023-10-30 21:13:21 pid:693 Workerman[server.php] stop success
+2023-10-30 21:16:13 pid:963 Workerman[server.php] restart 
+2023-10-30 21:16:13 pid:963 Workerman[server.php] is stopping ...
+2023-10-30 21:16:13 pid:963 Workerman[server.php] stop success
+2023-11-07 15:47:43 pid:3431 Workerman[server.php] start in DEBUG mode
+2023-11-07 15:49:08 pid:3431 Workerman[server.php] stopping ...
+2023-11-07 15:49:08 pid:3431 Workerman[server.php] has been stopped
+2023-11-07 15:50:27 pid:3677 Workerman[server.php] start in DEBUG mode
+2023-11-10 18:32:24 pid:18548 Workerman[server.php] start in DEBUG mode
+2023-11-10 18:47:44 pid:19811 Workerman[server.php] start in DEBUG mode
+2023-11-10 18:49:03 pid:19811 Workerman[server.php] stopping ...
+2023-11-10 18:49:03 pid:19811 Workerman[server.php] stopping ...
+2023-11-10 18:49:03 pid:19811 Workerman[server.php] has been stopped
+2023-11-10 18:50:45 pid:20122 Workerman[server.php] start in DEBUG mode
+2023-11-10 18:51:24 pid:20122 Workerman[server.php] stopping ...
+2023-11-10 18:51:24 pid:20122 Workerman[server.php] stopping ...
+2023-11-10 18:51:24 pid:20122 Workerman[server.php] has been stopped
+2023-11-10 18:52:27 pid:20259 Workerman[server.php] start in DEBUG mode
+2023-11-10 18:52:33 pid:20262 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2023-11-10 18:52:33 pid:20262 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2023-11-10 18:52:35 pid:20262 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2023-11-10 18:52:35 pid:20262 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2023-11-10 18:52:35 pid:20262 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2023-11-10 18:52:35 pid:20262 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2023-11-10 18:52:39 pid:20262 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2023-11-10 18:52:39 pid:20262 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2023-11-10 18:52:39 pid:20262 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2023-11-10 18:52:39 pid:20262 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2023-11-10 18:52:42 pid:20262 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2023-11-10 18:52:42 pid:20262 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2023-11-10 18:52:43 pid:20262 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2023-11-10 18:52:43 pid:20262 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2023-11-10 18:52:46 pid:20262 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2023-11-10 18:52:46 pid:20262 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2023-11-10 18:52:47 pid:20262 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2023-11-10 18:52:47 pid:20262 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2023-11-10 18:52:50 pid:20262 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2023-11-10 18:52:50 pid:20262 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2023-11-10 18:52:51 pid:20262 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2023-11-10 18:52:51 pid:20262 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2023-11-10 18:52:52 pid:20259 Workerman[server.php] stopping ...
+2023-11-10 18:52:52 pid:20259 Workerman[server.php] stopping ...
+2023-11-10 18:52:52 pid:20259 Workerman[server.php] has been stopped
+2023-11-10 18:53:25 pid:20353 Workerman[server.php] start in DEBUG mode
+2023-11-10 18:54:48 pid:20353 Workerman[server.php] stopping ...
+2023-11-10 18:54:48 pid:20353 Workerman[server.php] has been stopped
+2023-11-10 18:55:47 pid:20657 Workerman[server.php] start in DEBUG mode
+2023-11-10 18:55:53 pid:20657 Workerman[server.php] stopping ...
+2023-11-10 18:55:53 pid:20657 Workerman[server.php] stopping ...
+2023-11-10 18:55:53 pid:20657 Workerman[server.php] has been stopped
+2023-11-10 18:56:08 pid:20710 Workerman[server.php] start in DEBUG mode
+2023-11-10 18:58:28 pid:20710 Workerman[server.php] stopping ...
+2023-11-10 18:58:28 pid:20710 Workerman[server.php] stopping ...
+2023-11-10 18:58:28 pid:20710 Workerman[server.php] has been stopped
+2023-11-10 19:02:09 pid:21167 Workerman[server.php] start in DEBUG mode
+2023-11-10 19:02:32 pid:21167 Workerman[server.php] stopping ...
+2023-11-10 19:02:32 pid:21167 Workerman[server.php] stopping ...
+2023-11-10 19:02:32 pid:21167 Workerman[server.php] has been stopped
+2023-11-10 19:06:42 pid:21597 Workerman[server.php] start in DEBUG mode
+2023-11-10 19:07:22 pid:21597 Workerman[server.php] stopping ...
+2023-11-10 19:07:22 pid:21597 Workerman[server.php] has been stopped
+2023-11-10 19:08:49 pid:21763 Workerman[server.php] start in DEBUG mode
+2023-11-10 19:10:37 pid:21763 Workerman[server.php] stopping ...
+2023-11-10 19:10:37 pid:21763 Workerman[server.php] stopping ...
+2023-11-10 19:10:37 pid:21763 Workerman[server.php] has been stopped
+2023-11-10 19:18:53 pid:22460 Workerman[server.php] start in DEBUG mode
+2023-11-10 19:19:07 pid:22460 Workerman[server.php] stopping ...
+2023-11-10 19:19:07 pid:22460 Workerman[server.php] has been stopped
+2023-11-10 19:19:31 pid:22526 Workerman[server.php] start in DEBUG mode
+2023-11-10 19:19:42 pid:22526 Workerman[server.php] stopping ...
+2023-11-10 19:19:42 pid:22526 Workerman[server.php] stopping ...
+2023-11-10 19:19:42 pid:22526 Workerman[server.php] has been stopped
+2023-11-10 19:20:37 pid:22651 Workerman[server.php] start in DEBUG mode
+2023-11-10 19:20:46 pid:22651 Workerman[server.php] stopping ...
+2023-11-10 19:20:46 pid:22651 Workerman[server.php] has been stopped
+2023-11-10 19:21:09 pid:22710 Workerman[server.php] start in DEBUG mode
+2023-11-10 19:21:21 pid:22710 Workerman[server.php] stopping ...
+2023-11-10 19:21:21 pid:22710 Workerman[server.php] stopping ...
+2023-11-10 19:21:21 pid:22710 Workerman[server.php] has been stopped
+2023-11-10 19:21:57 pid:22787 Workerman[server.php] start in DEBUG mode
+2023-11-10 19:22:07 pid:22789 ArgumentCountError: Too few arguments to function app\socket\controller\Events::app\socket\controller\{closure}(), 0 passed in /www/wwwroot/redgreen/vendor/workerman/workerman/Events/Select.php on line 238 and exactly 1 expected in /www/wwwroot/redgreen/application/socket/controller/Events.php:22
+Stack trace:
+#0 /www/wwwroot/redgreen/vendor/workerman/workerman/Events/Select.php(238): app\socket\controller\Events::app\socket\controller\{closure}()
+#1 /www/wwwroot/redgreen/vendor/workerman/workerman/Events/Select.php(299): Workerman\Events\Select->tick()
+#2 /www/wwwroot/redgreen/vendor/workerman/workerman/Worker.php(1635): Workerman\Events\Select->loop()
+#3 /www/wwwroot/redgreen/vendor/workerman/workerman/Worker.php(1426): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#4 /www/wwwroot/redgreen/vendor/workerman/workerman/Worker.php(1400): Workerman\Worker::forkWorkersForLinux()
+#5 /www/wwwroot/redgreen/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#6 /www/wwwroot/redgreen/application/socket/controller/Start.php(55): Workerman\Worker::runAll()
+#7 [internal function]: app\socket\controller\Start->__construct()
+#8 /www/wwwroot/redgreen/thinkphp/library/think/App.php(359): ReflectionClass->newInstanceArgs(Array)
+#9 /www/wwwroot/redgreen/thinkphp/library/think/Loader.php(479): think\App::invokeClass('app\\socket\\cont...')
+#10 /www/wwwroot/redgreen/thinkphp/library/think/App.php(580): think\Loader::controller('start', 'controller', false, 'Error')
+#11 /www/wwwroot/redgreen/thinkphp/library/think/App.php(456): think\App::module(Array, Array, true)
+#12 /www/wwwroot/redgreen/thinkphp/library/think/App.php(139): think\App::exec(Array, Array)
+#13 /www/wwwroot/redgreen/thinkphp/start.php(19): think\App::run()
+#14 /www/wwwroot/redgreen/server.php(28): require('/www/wwwroot/re...')
+#15 {main}
+2023-11-10 19:22:07 pid:22787 worker[BusinessWorker:22789] exit with status 64000
+2023-11-10 19:22:13 pid:22787 Workerman[server.php] stopping ...
+2023-11-10 19:22:13 pid:22787 Workerman[server.php] has been stopped
+2023-11-10 19:23:32 pid:22905 Workerman[server.php] start in DEBUG mode
+2023-11-10 19:23:55 pid:22905 Workerman[server.php] stopping ...
+2023-11-10 19:23:55 pid:22905 Workerman[server.php] stopping ...
+2023-11-10 19:23:55 pid:22905 Workerman[server.php] has been stopped
+2023-11-10 19:24:17 pid:22977 Workerman[server.php] start in DEBUG mode
+2023-11-10 19:24:37 pid:22977 Workerman[server.php] stopping ...
+2023-11-10 19:24:37 pid:22977 Workerman[server.php] stopping ...
+2023-11-10 19:24:37 pid:22977 Workerman[server.php] has been stopped
+2023-11-10 19:25:12 pid:23092 Workerman[server.php] start in DEBUG mode
+2023-11-10 19:25:40 pid:23092 Workerman[server.php] stopping ...
+2023-11-10 19:25:40 pid:23092 Workerman[server.php] has been stopped
+2023-11-10 19:38:25 pid:23963 Workerman[server.php] start in DEBUG mode
+2023-11-10 19:39:06 pid:23963 Workerman[server.php] stopping ...
+2023-11-10 19:39:06 pid:23963 Workerman[server.php] stopping ...
+2023-11-10 19:39:06 pid:23963 Workerman[server.php] has been stopped
+2023-11-10 19:41:12 pid:24183 Workerman[server.php] start in DEBUG mode
+2023-11-10 19:41:13 pid:24185 Error: Call to a member function getRemoteIp() on string in /www/wwwroot/redgreen/application/socket/controller/Events.php:42
+Stack trace:
+#0 [internal function]: app\socket\controller\Events::onConnect('7f000001251d000...')
+#1 /www/wwwroot/redgreen/vendor/workerman/gateway-worker/src/BusinessWorker.php(380): call_user_func('\\app\\socket\\con...', '7f000001251d000...')
+#2 /www/wwwroot/redgreen/vendor/workerman/workerman/Connection/TcpConnection.php(646): GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 /www/wwwroot/redgreen/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead(Resource id #113)
+#4 /www/wwwroot/redgreen/vendor/workerman/workerman/Worker.php(1635): Workerman\Events\Select->loop()
+#5 /www/wwwroot/redgreen/vendor/workerman/workerman/Worker.php(1426): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#6 /www/wwwroot/redgreen/vendor/workerman/workerman/Worker.php(1400): Workerman\Worker::forkWorkersForLinux()
+#7 /www/wwwroot/redgreen/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#8 /www/wwwroot/redgreen/application/socket/controller/Start.php(55): Workerman\Worker::runAll()
+#9 [internal function]: app\socket\controller\Start->__construct()
+#10 /www/wwwroot/redgreen/thinkphp/library/think/App.php(359): ReflectionClass->newInstanceArgs(Array)
+#11 /www/wwwroot/redgreen/thinkphp/library/think/Loader.php(479): think\App::invokeClass('app\\socket\\cont...')
+#12 /www/wwwroot/redgreen/thinkphp/library/think/App.php(580): think\Loader::controller('start', 'controller', false, 'Error')
+#13 /www/wwwroot/redgreen/thinkphp/library/think/App.php(456): think\App::module(Array, Array, true)
+#14 /www/wwwroot/redgreen/thinkphp/library/think/App.php(139): think\App::exec(Array, Array)
+#15 /www/wwwroot/redgreen/thinkphp/start.php(19): think\App::run()
+#16 /www/wwwroot/redgreen/server.php(28): require('/www/wwwroot/re...')
+#17 {main}
+2023-11-10 19:41:13 pid:24183 worker[BusinessWorker:24185] exit with status 64000
+2023-11-10 19:41:14 pid:24183 Workerman[server.php] stopping ...
+2023-11-10 19:41:14 pid:24183 Workerman[server.php] has been stopped
+2023-11-10 19:42:30 pid:24289 Workerman[server.php] start in DEBUG mode
+2023-11-10 19:42:42 pid:24289 Workerman[server.php] stopping ...
+2023-11-10 19:42:42 pid:24289 Workerman[server.php] stopping ...
+2023-11-10 19:42:42 pid:24289 Workerman[server.php] has been stopped
+2023-11-10 19:43:26 pid:24373 Workerman[server.php] start in DEBUG mode
+2023-11-10 19:43:43 pid:24373 Workerman[server.php] stopping ...
+2023-11-10 19:43:43 pid:24373 Workerman[server.php] stopping ...
+2023-11-10 19:43:43 pid:24373 Workerman[server.php] has been stopped
+2023-11-10 19:44:05 pid:24436 Workerman[server.php] start in DEBUG mode
+2023-11-10 19:44:28 pid:24436 Workerman[server.php] stopping ...
+2023-11-10 19:44:28 pid:24436 Workerman[server.php] stopping ...
+2023-11-10 19:44:28 pid:24436 Workerman[server.php] has been stopped
+2023-11-10 19:45:54 pid:24608 Workerman[server.php] start in DEBUG mode
+2023-11-10 19:46:23 pid:24608 Workerman[server.php] stopping ...
+2023-11-10 19:46:23 pid:24608 Workerman[server.php] stopping ...
+2023-11-10 19:46:23 pid:24608 Workerman[server.php] has been stopped
+2023-11-10 19:53:13 pid:25105 Workerman[server.php] start in DEBUG mode
+2023-11-10 19:54:48 pid:25105 Workerman[server.php] stopping ...
+2023-11-10 19:54:48 pid:25105 Workerman[server.php] stopping ...
+2023-11-10 19:54:48 pid:25105 Workerman[server.php] has been stopped

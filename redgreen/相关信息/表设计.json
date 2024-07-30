@@ -1,0 +1,13 @@
+
+{
+  "用户表fa_users": "状态, 0禁用 1可用",
+  "用户银行卡信息表fa_users_bank": "id, Actual_name真实姓名,IFSC, Account_number银行卡号, State州/省, City市 ,Address地址 ,Mobile_number手机号码, Email, createtime, updatetime",
+  "开奖列表fa_caidata": "id",
+  "用户下注记录fa_bet": "id,users_id,caidata_id,bet_code下注:green=绿色,violet=紫色,red=红色,money下注金额,result输赢金额,status状态:0=下注,1=已结算,2=取消,createtime,clearingtime结算时间",
+  "充值和提现申请表fa_money": "id,type类别:1=充值,2=提现,users_id,money,status状态:0=未处理,1=通过,2=拒绝,createtime, updatetime",
+  "用户资金明细 fa_users_money_log": "id,users_id,data,money变动金额,before变更前余额,after变更后余额,memo备注",
+  "用户积分明细 fa_users_score_log": "id,users_id,data,money变动金额,before变更前余额,after变更后余额,memo备注",
+  "任务表fa_task": "id,users_id, title, data, status, createtime, updatetime",
+  "消息/通知表fa_notice": "id,users_id,title,data, createtime, updatetime",
+  "投诉与建议表fa_suggest": "id,users_id,type,OutId,data,status,createtime, updatetime",
+}

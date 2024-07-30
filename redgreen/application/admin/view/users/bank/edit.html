@@ -1,0 +1,64 @@
+<form id="edit-form" class="form-horizontal" role="form" data-toggle="validator" method="POST" action="">
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Users_id')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-users_id" data-rule="required" data-source="users/user/usersid" class="form-control selectpage" name="row[users_id]" type="text" value="{$row.users_id|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Actual_name')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-Actual_name" data-rule="required" class="form-control" name="row[Actual_name]" type="text" value="{$row.Actual_name|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Ifsc')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-IFSC" class="form-control" name="row[IFSC]" type="text" value="{$row.IFSC|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Account_number')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-Account_number" data-rule="required" class="form-control" name="row[Account_number]" type="text" value="{$row.Account_number|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('State')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-State" data-rule="required" class="form-control" name="row[State]" type="text" value="{$row.State|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('City')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <div class='control-relative'><input id="c-City" data-rule="required" class="form-control" name="row[City]" type="text" value="{$row.City|htmlentities}"></div>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Address')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-Address" data-rule="required" class="form-control" name="row[Address]" type="text" value="{$row.Address|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Mobile_number')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-Mobile_number" data-rule="required" class="form-control" name="row[Mobile_number]" type="text" value="{$row.Mobile_number|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Email')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-Email" class="form-control" name="row[Email]" type="text" value="{$row.Email|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="submit" class="btn btn-success btn-embossed disabled">{:__('OK')}</button>
+            <button type="reset" class="btn btn-default btn-embossed">{:__('Reset')}</button>
+        </div>
+    </div>
+</form>

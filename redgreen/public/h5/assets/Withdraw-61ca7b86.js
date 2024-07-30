@@ -1,0 +1,1 @@
+import{E as o,F as e}from"./index-66f9120d.js";import{N as n}from"./index-867180f6.js";import"./use-placeholder-b94ff598.js";import"./index-802b872b.js";const p={__name:"Withdraw",setup(c){const t=()=>history.back();return(a,i)=>{const r=n;return o(),e(r,{title:a.$t("mine.withdrawal"),"left-arrow":"",onClickLeft:t},null,8,["title"])}}};export{p as default};

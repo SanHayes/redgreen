@@ -1,0 +1,56 @@
+<form id="edit-form" class="form-horizontal" role="form" data-toggle="validator" method="POST" action="">
+    <table class="table table-striped">
+        <thead>
+        <tr>
+            <th>{:__('Title')}</th>
+            <th>{:__('Content')}</th>
+        </tr>
+        </thead>
+        <tbody>
+
+        <tr>
+            <td>用户id</td>
+            <td>{$row.id}</td>
+        </tr>
+
+        <tr>
+            <td>原金额</td>
+            <td>{$row.money}</td>
+        </tr>
+
+        <tr>
+            <td>上下分</td>
+            <td>
+                <div class="radio">
+
+                    <label for=""><input  name="type" type="radio" value="上分" checked/> 上分</label>
+                    <label for=""><input  name="type" type="radio" value="下分" /> 下分</label>
+
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>变动金额</td>
+            <td>
+                <input id="c-money" data-rule="required" class="form-control" step="0.01" name="money" type="number" value="">
+            </td>
+        </tr>
+<!--        <div class="form-group">-->
+<!--            <label class="control-label col-xs-12 col-sm-2">{:__('Status')}:</label>-->
+
+<!--        </div>-->
+
+
+
+        </tbody>
+    </table>
+    <div class="hide layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="submit" class="btn btn-success btn-embossed">{:__('OK')}</button>
+            <button type="reset" class="btn btn-primary btn-embossed btn-close" onclick="Layer.closeAll();">
+                {:__('Close')}
+            </button>
+        </div>
+    </div>
+</form>

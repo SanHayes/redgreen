@@ -1,0 +1,1 @@
+import{af as o}from"./index-fd6e4a9e.js";import{u as r}from"./user-a9bc9c33.js";const i=o("user",{state:()=>({info:{},is_vistor:1,login:0,getrecordAcitve:0,getetcAcitve:0,item:"",balance:"",formulatetype:0,formulateparsm:"",formulaterandom:1}),actions:{updateState(t,e){this[t]=e},async getInfo(){const t=await r();console.log("getInfo",t),this.info=t}}});export{i as u};
